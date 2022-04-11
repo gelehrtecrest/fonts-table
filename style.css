@@ -1,0 +1,17 @@
+/*
+@page {
+    size: A4 portrait;
+    margin: 0mm;
+}
+*/
+td{
+	font-size: x-large;
+}
+
+th, td{
+	text-align: center;
+}
+
+.pagebreak {
+	break-after: page;
+}
